@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+}
+header{
+    background-color: rgb(205, 206, 172);
+}
+.skip{
+    float: right;
+}
+.govt {
+    float: left;
+}
+.education{
+    float:left;
+    margin: 10px;
+    padding: auto;
+    box-sizing: border-box;
+}
+.heading{
+    text-align: center;
+}
+.logo{
+    float: left;
+}
+.decoration{
+    text-decoration: none;
+    overflow: hidden;
+}
+.decoration a :hover{
+    text-decoration: underline;
+}
+.enter{
+    float: right;
+}
+.area {
+    float: right;
+    text-align: right;
+}
+.bharatsarkar {
+    float: left;
+    text-align: left;
+}
